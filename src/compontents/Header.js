@@ -13,7 +13,7 @@ function Header() {
     return (
         <Container>
             <Logo>
-                <a><img src='/images/logo.svg' alt=''/></a>
+                <a><img src='https://raw.githubusercontent.com/swwayam/tesla/f7826bd2d32c5edf1401db6485a57fc10537e82b/public/images/logo.svg' alt=''/></a>
             </Logo>
             <Menu>
                 {cars && cars.map((car, index) => (
