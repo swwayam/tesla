@@ -24,7 +24,7 @@ function Section({title, description, backgroundImg, leftBtnText, rightBtnText})
                     }
                     </ButtonGroup>
             </Fade>
-                <DownArrow src="/images/down-arrow.svg" />
+                <DownArrow src="https://raw.githubusercontent.com/swwayam/tesla/a35d1fcf10876d1ed5829068077afe5e5d61d8b9/public/images/down-arrow.svg" />
             </Buttons>
         </Wrap>
     )
